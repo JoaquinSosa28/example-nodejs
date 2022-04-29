@@ -1,2 +1,2 @@
 # example-nodejs
-An example and basic backend app made in NodeJS
+An example and basic backend app made in NodeJS using Express

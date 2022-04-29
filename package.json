@@ -1,0 +1,22 @@
+{
+  "name": "example-nodejs",
+  "version": "1.0.0",
+  "description": "An example and basic backend app made in NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoaquinSosa28/example-nodejs.git"
+  },
+  "author": "Joaquin Sosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoaquinSosa28/example-nodejs/issues"
+  },
+  "homepage": "https://github.com/JoaquinSosa28/example-nodejs#readme",
+  "dependencies": {
+    "express": "^4.18.0"
+  }
+}
